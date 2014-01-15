@@ -188,6 +188,12 @@
 			<property-name>forceTrustSSLCertificate</property-name>
 			<value>true</value>
 		</managed-property>
+		<!--        
+				<managed-property>
+                        <property-name>proxyConfig</property-name>
+                        <value>ProxyConfig</value>
+                </managed-property>
+         -->
 	</managed-bean>
 	
 	<!-- Connections SSO -->	
